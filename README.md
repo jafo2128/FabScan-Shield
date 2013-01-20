@@ -1,5 +1,5 @@
 # FabScan-Shield
-The FabScan-Shield is a Arduino plug-on module for 3D Laser Scanning.
+The FabScan-Shield is an Arduino plug-on module for 3D Laser Scanning.
 
 Further infos: <http://hci.rwth-aachen.de/fabscan> and <http://hci.rwth-aachen.de/fabscan_shield>
 
