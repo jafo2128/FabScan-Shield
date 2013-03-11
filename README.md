@@ -5,7 +5,7 @@ Further infos: <http://hci.rwth-aachen.de/fabscan> and <http://hci.rwth-aachen.d
 
 <http://www.watterott.com/en/Arduino-FabScan-Shield>
 
-![FabScan-Shield](https://github.com/watterott/FabScan-Shield/raw/master/img/fabscan-shield.jpg)
+![FabScan-Shield](https://raw.github.com/watterott/FabScan-Shield/master/img/fabscan-shield.jpg)
 
 
 ## Features
@@ -13,7 +13,5 @@ Further infos: <http://hci.rwth-aachen.de/fabscan> and <http://hci.rwth-aachen.d
  * Compatible with FabScan (3D Laser Scanner)
 
 
-## Directories
- /pcb - Schematics and Layout files
- 
- /src - Arduino Examples
+## Projects
+[Projects using the FabScan-Shield](https://github.com/watterott/FabScan-Shield/blob/master/Projects.md)
