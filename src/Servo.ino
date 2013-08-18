@@ -9,7 +9,7 @@ Servo myservo;
 
 void setup()
 { 
-  myservo.attach(3); //3 or 6 or 12
+  myservo.attach(3); //3 or 6 or 12 or A1
 } 
 
 void loop() 
