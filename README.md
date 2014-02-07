@@ -13,5 +13,9 @@ Shop: [FabScan-Shield](http://www.watterott.com/en/Arduino-FabScan-Shield)
 * Compatible with FabScan (3D Laser Scanner)
 
 
+## Hardware
+* [Schematics + Layout](https://github.com/watterott/FabScan-Shield/tree/master/pcb)
+
+
 ## Projects
 * [Projects using the FabScan-Shield](https://github.com/watterott/FabScan-Shield/blob/master/Projects.md)
