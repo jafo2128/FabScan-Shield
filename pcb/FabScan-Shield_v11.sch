@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE eagle SYSTEM "eagle.dtd">
-<eagle version="6.4">
+<eagle version="6.6.0">
 <drawing>
 <settings>
 <setting alwaysvectorfont="no"/>
@@ -9474,8 +9474,8 @@ high speed (Philips)</description>
 <sheet>
 <plain>
 <wire x1="33.02" y1="157.48" x2="35.687" y2="157.48" width="0.8128" layer="94"/>
-<text x="161.29" y="34.29" size="1.27" layer="95">Released under the Creative Commons Attribution Share-Alike 3.0 License</text>
-<text x="161.29" y="31.75" size="1.27" layer="95">http://creativecommons.org/licenses/by-sa/3.0/</text>
+<text x="161.29" y="34.29" size="1.27" layer="95">Released under the Creative Commons Attribution Share-Alike License</text>
+<text x="161.29" y="31.75" size="1.27" layer="95">http://creativecommons.org/licenses/by-sa/4.0/</text>
 <text x="161.29" y="27.94" size="1.27" layer="95">Designed by Andreas Watterott (Watterott electronic)</text>
 <text x="161.29" y="39.37" size="2.54" layer="95">Further Infos: http://hci.rwth-aachen.de/fabscan</text>
 <text x="161.29" y="25.4" size="1.27" layer="95">Based on the work of Francis Engelmann and Sebastian Setz</text>

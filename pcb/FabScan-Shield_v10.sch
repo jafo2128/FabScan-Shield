@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE eagle SYSTEM "eagle.dtd">
-<eagle version="6.3">
+<eagle version="6.6.0">
 <drawing>
 <settings>
 <setting alwaysvectorfont="no"/>
 <setting verticaltext="up"/>
 </settings>
-<grid distance="0.05" unitdist="inch" unit="inch" style="lines" multiple="1" display="yes" altdistance="0.01" altunitdist="inch" altunit="inch"/>
+<grid distance="0.1" unitdist="inch" unit="inch" style="lines" multiple="1" display="no" altdistance="0.01" altunitdist="inch" altunit="inch"/>
 <layers>
 <layer number="1" name="Top" color="4" fill="1" visible="no" active="no"/>
 <layer number="2" name="Route2" color="1" fill="3" visible="no" active="no"/>
@@ -9639,8 +9639,8 @@ high speed (Philips)</description>
 <sheet>
 <plain>
 <wire x1="33.02" y1="149.86" x2="35.687" y2="149.86" width="0.8128" layer="94"/>
-<text x="161.29" y="34.29" size="1.27" layer="95">Released under the Creative Commons Attribution Share-Alike 3.0 License</text>
-<text x="161.29" y="31.75" size="1.27" layer="95">http://creativecommons.org/licenses/by-sa/3.0/</text>
+<text x="161.29" y="34.29" size="1.27" layer="95">Released under the Creative Commons Attribution Share-Alike License</text>
+<text x="161.29" y="31.75" size="1.27" layer="95">http://creativecommons.org/licenses/by-sa/4.0/</text>
 <text x="161.29" y="27.94" size="1.27" layer="95">Designed by Andreas Watterott (Watterott electronic)</text>
 <text x="161.29" y="41.91" size="2.54" layer="95">Further Infos: http://hci.rwth-aachen.de/fabscan</text>
 <text x="161.29" y="25.4" size="1.27" layer="95">Based on the work of Francis Engelmann and Sebastian Setz</text>
