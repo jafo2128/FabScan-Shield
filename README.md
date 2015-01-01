@@ -17,5 +17,9 @@ Shop: [FabScan-Shield](http://www.watterott.com/en/Arduino-FabScan-Shield)
 * [Schematics + Layout](https://github.com/watterott/FabScan-Shield/tree/master/pcb)
 
 
+## Software
+* [General Arduino Examples](https://github.com/watterott/FabScan-Shield/tree/master/src)
+
+
 ## Projects
 * [Projects using the FabScan-Shield](https://github.com/watterott/FabScan-Shield/blob/master/Projects.md)
