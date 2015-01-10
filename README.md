@@ -5,7 +5,7 @@ Infos about the FabScan 3D-Scanner: http://hci.rwth-aachen.de/fabscan and http:/
 
 Shop: [FabScan-Shield](http://www.watterott.com/en/Arduino-FabScan-Shield)
 
-[![FabScan-Shield](https://raw.github.com/watterott/FabScan-Shield/master/img/fabscan-shield.jpg)](http://www.watterott.com/en/Arduino-FabScan-Shield)
+[![FabScan-Shield](https://raw.github.com/watterott/FabScan-Shield/master/pcb/FabScan-Shield_v11.jpg)](http://www.watterott.com/en/Arduino-FabScan-Shield)
 
 
 ## Features
