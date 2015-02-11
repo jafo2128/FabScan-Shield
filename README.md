@@ -3,9 +3,15 @@ The FabScan-Shield is an Arduino plug-on module for driving stepper and servo mo
 
 Infos about the FabScan 3D-Scanner: http://hci.rwth-aachen.de/fabscan and http://hci.rwth-aachen.de/fabscan_shield
 
-Shop: [FabScan-Shield](http://www.watterott.com/en/Arduino-FabScan-Shield)
-
 [![FabScan-Shield](https://raw.github.com/watterott/FabScan-Shield/master/pcb/FabScan-Shield_v11.jpg)](http://www.watterott.com/en/Arduino-FabScan-Shield)
+
+
+## Shop
+* [FabScan-Shield](http://www.watterott.com/en/Arduino-FabScan-Shield)
+* [FabScan Cube Kit with USB camera](http://www.watterott.com/en/FabScan-Cube-complete-Kit)
+* [FabScan Cube Kit without USB camera](http://www.watterott.com/en/FabScan-Cube-Electronics)
+* [FabScan Cube Wood Parts](http://www.watterott.com/en/Fabscan-CUBE-Kit)
+* [FabScan Cube Screw Set](http://www.watterott.com/en/FabScan-Cube-Screw-set)
 
 
 ## Features
@@ -13,12 +19,9 @@ Shop: [FabScan-Shield](http://www.watterott.com/en/Arduino-FabScan-Shield)
 * Compatible with FabScan (3D Laser Scanner)
 
 
-## Hardware
+## Hardware and Software
 * [Schematics + Layout](https://github.com/watterott/FabScan-Shield/tree/master/pcb)
-
-
-## Software
-* [General Arduino Examples](https://github.com/watterott/FabScan-Shield/tree/master/src)
+* [Arduino Examples](https://github.com/watterott/FabScan-Shield/tree/master/src)
 
 
 ## Projects
