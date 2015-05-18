@@ -1,5 +1,5 @@
 # FabScan-Shield
-The FabScan-Shield is an Arduino plug-on module for driving stepper and servo motors and to build 3D Laser Scanning.
+The FabScan-Shield is a plug-on module for Arduino to drive Stepper and Servo Motors or to build a 3D Laser Scanner.
 
 Infos about the FabScan 3D-Scanner: http://hci.rwth-aachen.de/fabscan and http://hci.rwth-aachen.de/fabscan_shield
 
