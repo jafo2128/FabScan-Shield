@@ -1,7 +1,7 @@
 # FabScan-Shield
-The FabScan-Shield is a plug-on module for Arduino to drive Stepper and Servo Motors or to build a 3D Laser Scanner.
+The FabScan-Shield is a plug-on module for Arduino/Genuino to drive Stepper and Servo Motors or to build a 3D Laser Scanner.
 
-Infos about the FabScan 3D-Scanner: http://hci.rwth-aachen.de/fabscan and http://hci.rwth-aachen.de/fabscan_shield
+Infos about the FabScan 3D-Scanner: http://hci.rwth-aachen.de/fabscan
 
 [![FabScan-Shield](https://raw.github.com/watterott/FabScan-Shield/master/pcb/FabScan-Shield_v11.jpg)](http://www.watterott.com/en/Arduino-FabScan-Shield)
 
@@ -22,7 +22,4 @@ Infos about the FabScan 3D-Scanner: http://hci.rwth-aachen.de/fabscan and http:/
 ## Hardware and Software
 * [Schematics + Layout](https://github.com/watterott/FabScan-Shield/tree/master/pcb)
 * [Arduino Examples](https://github.com/watterott/FabScan-Shield/tree/master/src)
-
-
-## Projects
-* [Projects using the FabScan-Shield](https://github.com/watterott/FabScan-Shield/blob/master/Projects.md)
+* FabScan: [Shield Assembly Instructions](http://hci.rwth-aachen.de/fabscan_shield), [Assembly Instructions](http://32b.it/assembly-fabscan-by-wetterott-my-personal-instruction-guide/), [Scanning Instructions](http://www.mariolukas.de/2014/07/scannen-mit-dem-fabscan/)
